@@ -1,0 +1,10 @@
+C:\Users\danie\Source\Repos\churras\ChurrasDomain\obj\Debug\netcoreapp3.1\BlockDomain.csproj.AssemblyReference.cache
+C:\Users\danie\Source\Repos\churras\ChurrasDomain\obj\Debug\netcoreapp3.1\BlockDomain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\Source\Repos\churras\ChurrasDomain\obj\Debug\netcoreapp3.1\BlockDomain.AssemblyInfoInputs.cache
+C:\Users\danie\Source\Repos\churras\ChurrasDomain\obj\Debug\netcoreapp3.1\BlockDomain.AssemblyInfo.cs
+C:\Users\danie\Source\Repos\churras\ChurrasDomain\obj\Debug\netcoreapp3.1\BlockDomain.csproj.CoreCompileInputs.cache
+C:\Users\danie\Source\Repos\churras\ChurrasDomain\bin\Debug\netcoreapp3.1\BlockDomain.deps.json
+C:\Users\danie\Source\Repos\churras\ChurrasDomain\bin\Debug\netcoreapp3.1\BlockDomain.dll
+C:\Users\danie\Source\Repos\churras\ChurrasDomain\bin\Debug\netcoreapp3.1\BlockDomain.pdb
+C:\Users\danie\Source\Repos\churras\ChurrasDomain\obj\Debug\netcoreapp3.1\BlockDomain.dll
+C:\Users\danie\Source\Repos\churras\ChurrasDomain\obj\Debug\netcoreapp3.1\BlockDomain.pdb

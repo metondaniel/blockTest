@@ -1,0 +1,13 @@
+C:\Users\danie\Source\Repos\churras\ChurrasApplication\obj\Debug\netcoreapp3.1\BlockApplication.csproj.AssemblyReference.cache
+C:\Users\danie\Source\Repos\churras\ChurrasApplication\obj\Debug\netcoreapp3.1\BlockApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\Source\Repos\churras\ChurrasApplication\obj\Debug\netcoreapp3.1\BlockApplication.AssemblyInfoInputs.cache
+C:\Users\danie\Source\Repos\churras\ChurrasApplication\obj\Debug\netcoreapp3.1\BlockApplication.AssemblyInfo.cs
+C:\Users\danie\Source\Repos\churras\ChurrasApplication\obj\Debug\netcoreapp3.1\BlockApplication.csproj.CoreCompileInputs.cache
+C:\Users\danie\Source\Repos\churras\ChurrasApplication\bin\Debug\netcoreapp3.1\BlockApplication.deps.json
+C:\Users\danie\Source\Repos\churras\ChurrasApplication\bin\Debug\netcoreapp3.1\BlockApplication.dll
+C:\Users\danie\Source\Repos\churras\ChurrasApplication\bin\Debug\netcoreapp3.1\BlockApplication.pdb
+C:\Users\danie\Source\Repos\churras\ChurrasApplication\bin\Debug\netcoreapp3.1\BlockDomain.dll
+C:\Users\danie\Source\Repos\churras\ChurrasApplication\bin\Debug\netcoreapp3.1\BlockDomain.pdb
+C:\Users\danie\Source\Repos\churras\ChurrasApplication\obj\Debug\netcoreapp3.1\BlockApplication.csproj.CopyComplete
+C:\Users\danie\Source\Repos\churras\ChurrasApplication\obj\Debug\netcoreapp3.1\BlockApplication.dll
+C:\Users\danie\Source\Repos\churras\ChurrasApplication\obj\Debug\netcoreapp3.1\BlockApplication.pdb
